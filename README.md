@@ -1,6 +1,6 @@
 # SUPER-MANEK-WEB
 
-Full free release is in this link:
+Current release is in this link:
 
 http://super-manek-web.surge.sh/
 
