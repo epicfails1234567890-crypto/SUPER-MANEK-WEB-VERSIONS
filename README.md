@@ -1,4 +1,4 @@
-# SUPER-MANEK-WEB-VERSIONS-SOURCE-CODE
+# SUPER-MANEK-WEB
 
 Full free release is in this link:
 
