@@ -1,4 +1,4 @@
-# SUPER-MANEK-WEB
+<img width="371" height="188" alt="SUPER MANEK LOGO LETRAS" src="https://github.com/user-attachments/assets/4046a578-33ec-4bc0-bcda-e002a124c737" />
 
 Current release is in this link:
 
