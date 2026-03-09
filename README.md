@@ -12,7 +12,7 @@ Controls:
 
 -Arrow keys to move.
 
--Space to attack.
+-Space to attack or break some trees, etc.
 
 
 
