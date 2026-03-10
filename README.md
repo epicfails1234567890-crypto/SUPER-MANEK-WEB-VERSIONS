@@ -12,7 +12,7 @@ Controls:
 
 -Arrow keys to move.
 
--Space to attack or break some trees, etc.
+-Space to attack or break some trees, kill pigs, etc.
 
 
 
