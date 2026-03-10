@@ -12,7 +12,8 @@ Controls:
 
 -Arrow keys to move.
 
--Space to attack or break some trees, kill pigs, etc.
+-Z key to attack or break some trees, kill pigs, etc.
+-X key to take usefull items from the ground.
 
 
 
